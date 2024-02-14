@@ -1,0 +1,31 @@
+{
+    "Name": "Truecrime",
+    "GeneratedBy": [
+        {
+            "Name": "BIDScoin",
+            "Version": "4.2.1",
+            "CodeURL": "https://github.com/Donders-Institute/bidscoin"
+        }
+    ],
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "License": "RECOMMENDED. The license for the dataset. The use of license name abbreviations is RECOMMENDED for specifying a license. The corresponding full license text MAY be specified in an additional LICENSE file",
+    "Authors": [
+        "Corinna Perchtold-Stefan",
+	"Christian Rominger",
+	"Karl Koschutnig",
+	"Andreas Fink"
+    ],
+    "Acknowledgements": "No acknowledgements",
+    "Funding": [
+        "OPTIONAL. Lisno acknowledgementst of sources of funding (grant numbers)"
+    ],
+    "EthicsApprovals": [
+        "OPTIONAL. List of ethics committee approvals of the research protocols and/or protocol identifiers"
+    ],
+    "ReferencesAndLinks": [
+        "OPTIONAL. List of references to publication that contain information on the dataset, or links",
+        "https://github.com/Donders-Institute/bidscoin"
+    ],
+    "DatasetDOI": "OPTIONAL. The Document Object Identifier of the dataset (not the corresponding paper)"
+}
