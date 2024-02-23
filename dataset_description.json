@@ -23,9 +23,6 @@
     "EthicsApprovals": [
         "OPTIONAL. List of ethics committee approvals of the research protocols and/or protocol identifiers"
     ],
-    "ReferencesAndLinks": [
-        "OPTIONAL. List of references to publication that contain information on the dataset, or links",
-        "https://github.com/Donders-Institute/bidscoin"
-    ],
+    "ReferencesAndLinks": [],
     "DatasetDOI": "OPTIONAL. The Document Object Identifier of the dataset (not the corresponding paper)"
 }
