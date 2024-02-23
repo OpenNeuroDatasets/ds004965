@@ -1,36 +1,36 @@
-participant_id	session_id	group	age	sex	size	weight	Meaningful coincidence
-sub-126BPCP021001	ses-1	n/a	27	M	Jan 87	87	
-sub-126BPCP021002	ses-1	n/a	24	F	01. Jul	52	
-sub-126BPCP021003	ses-1	n/a	23	M	Jan 73	75	
-sub-126BPCP021004	ses-1	n/a	23	M	Jan 99	81	
-sub-126BPCP021005	ses-1	n/a	22	M	Jan 83	80	
-sub-126BPCP021006	ses-1	n/a	23	F	Jan 74	86	
-sub-126BPCP021007	ses-1	n/a	18	F	Jan 73	70	
-sub-126BPCP021008	ses-1	n/a	25	F	Jan 71	55	
-sub-126BPCP021009	ses-1	n/a	21	M	Jan 78	78	
-sub-126BPCP021010	ses-1	n/a	21	F	Jan 72	68	
-sub-126BPCP021011	ses-1	n/a	24	M	Jan 82	75	
-sub-126BPCP021012	ses-1	n/a	21	M	Jan 83	70	
-sub-126BPCP021013	ses-1	n/a	25	F	Jan 74	71	
-sub-126BPCP021014	ses-1	n/a	24	M	Jan 86	80	
-sub-126BPCP021015	ses-1	n/a	23	F	Jan 75	63	
-sub-126BPCP021016	ses-1	n/a	21	F	Jan 68	55	
-sub-126BPCP021017	ses-1	n/a	23	M	Jan 79	64	
-sub-126BPCP021018	ses-1	n/a	23	F	01. Jun	54	
-sub-126BPCP021019	ses-1	n/a	26	M	Jan 82	67	
-sub-126BPCP021020	ses-1	n/a	23	M	Jan 81	83	
-sub-126BPCP021021	ses-1	n/a	25	M	Jan 78	65	
-sub-126BPCP021022	ses-1	n/a	20	M	Jan 85	70	
+participant_id	session_id	group	age	sex	size	weight	meaningful
+sub-126BPCP021001	ses-1	n/a	27	M	Jan 87	87	n/a
+sub-126BPCP021002	ses-1	n/a	24	F	01. Jul	52	n/a
+sub-126BPCP021003	ses-1	n/a	23	M	Jan 73	75	n/a
+sub-126BPCP021004	ses-1	n/a	23	M	Jan 99	81	n/a
+sub-126BPCP021005	ses-1	n/a	22	M	Jan 83	80	n/a
+sub-126BPCP021006	ses-1	n/a	23	F	Jan 74	86	n/a
+sub-126BPCP021007	ses-1	n/a	18	F	Jan 73	70	n/a
+sub-126BPCP021008	ses-1	n/a	25	F	Jan 71	55	n/a
+sub-126BPCP021009	ses-1	n/a	21	M	Jan 78	78	n/a
+sub-126BPCP021010	ses-1	n/a	21	F	Jan 72	68	n/a
+sub-126BPCP021011	ses-1	n/a	24	M	Jan 82	75	n/a
+sub-126BPCP021012	ses-1	n/a	21	M	Jan 83	70	n/a
+sub-126BPCP021013	ses-1	n/a	25	F	Jan 74	71	n/a
+sub-126BPCP021014	ses-1	n/a	24	M	Jan 86	80	n/a
+sub-126BPCP021015	ses-1	n/a	23	F	Jan 75	63	n/a
+sub-126BPCP021016	ses-1	n/a	21	F	Jan 68	55	n/a
+sub-126BPCP021017	ses-1	n/a	23	M	Jan 79	64	n/a
+sub-126BPCP021018	ses-1	n/a	23	F	01. Jun	54	n/a
+sub-126BPCP021019	ses-1	n/a	26	M	Jan 82	67	n/a
+sub-126BPCP021020	ses-1	n/a	23	M	Jan 81	83	n/a
+sub-126BPCP021021	ses-1	n/a	25	M	Jan 78	65	n/a
+sub-126BPCP021022	ses-1	n/a	20	M	Jan 85	70	n/a
 sub-126BPCP021023	ses-1	n/a	28	F	Jan 62	65	12
-sub-126BPCP021024	ses-1	n/a	24	F	Jan 67	54	
-sub-126BPCP021025	ses-1	n/a	22	M	Jan 72	61	
-sub-126BPCP021026	ses-1	n/a	22	F	Jan 61	65	
-sub-126BPCP021027	ses-1	n/a	22	F	Jan 68	65	
-sub-126BPCP021028	ses-1	n/a	23	M	Jan 78	84	
+sub-126BPCP021024	ses-1	n/a	24	F	Jan 67	54	n/a
+sub-126BPCP021025	ses-1	n/a	22	M	Jan 72	61	n/a
+sub-126BPCP021026	ses-1	n/a	22	F	Jan 61	65	n/a
+sub-126BPCP021027	ses-1	n/a	22	F	Jan 68	65	n/a
+sub-126BPCP021028	ses-1	n/a	23	M	Jan 78	84	n/a
 sub-126BPCP021029	ses-1	n/a	22	F	Jan 74	70	29
 sub-126BPCP021030	ses-1	n/a	28	F	Jan 66	65	15
 sub-126BPCP021031	ses-1	n/a	27	F	Jan 56	52	27
-sub-126BPCP021032	ses-1	n/a	25	M	Jan 83	75	
+sub-126BPCP021032	ses-1	n/a	25	M	Jan 83	75	n/a
 sub-126BPCP021033	ses-1	n/a	23	F	Jan 68	80	19
 sub-126BPCP021034	ses-1	n/a	35	F	Jan 72	62	12
 sub-126BPCP021035	ses-1	n/a	24	F	Jan 65	56	23
@@ -66,14 +66,14 @@ sub-126BPCP021064	ses-1	n/a	25	M	Jan 84	90	23
 sub-126BPCP021065	ses-1	n/a	43	F	01. Jun	47	12
 sub-126BPCP021066	ses-1	n/a	24	F	Jan 65	60	23
 sub-126BPCP021067	ses-1	n/a	20	F	Jan 54	54	16
-sub-126BPCP021068	ses-1	n/a	21	M	Jan 89	103	
+sub-126BPCP021068	ses-1	n/a	21	M	Jan 89	103	n/a
 sub-126BPCP021069	ses-1	n/a	25	F	Jan 53	44	19
 sub-126BPCP021070	ses-1	n/a	25	M	Jan 74	63	20
 sub-126BPCP021071	ses-1	n/a	27	F	Jan 59	52	14
 sub-126BPCP021072	ses-1	n/a	40	F	Jan 63	60	14
 sub-126BPCP021073	ses-1	n/a	20	F	01. Jul	78	17
 sub-126BPCP021074	ses-1	n/a	21	M	Jan 85	120	17
-sub-126BPCP021075	ses-1	n/a	24	M	Jan 75	73	
+sub-126BPCP021075	ses-1	n/a	24	M	Jan 75	73	n/a
 sub-126BPCP021076	ses-1	n/a	24	M	Jan 83	69	16
 sub-126BPCP021077	ses-1	n/a	23	F	Jan 73	68	11
 sub-126BPCP021078	ses-1	n/a	19	F	01. Mai	43	15
@@ -89,7 +89,7 @@ sub-126BPCP021087	ses-1	n/a	24	F	Jan 74	57	15
 sub-126BPCP021088	ses-1	n/a	32	M	Jan 97	91	18
 sub-126BPCP021089	ses-1	n/a	20	F	Jan 64	56	16
 sub-126BPCP021090	ses-1	n/a	26	F	01. Aug	100	20
-sub-126BPCP021091	ses-1	n/a	26	F	Jan 63	60	
+sub-126BPCP021091	ses-1	n/a	26	F	Jan 63	60	n/a
 sub-126BPCP021092	ses-1	n/a	30	F	01. Jul	85	13
 sub-126BPCP021093	ses-1	n/a	26	F	Jan 67	62	18
 sub-126BPCP021094	ses-1	n/a	24	M	Jan 84	100	16
@@ -99,7 +99,7 @@ sub-126BPCP021097	ses-1	n/a	22	F	Jan 57	52	17
 sub-126BPCP021098	ses-1	n/a	22	M	Jan 92	75	13
 sub-126BPCP021099	ses-1	n/a	20	F	Jan 65	54	18
 sub-126BPCP021100	ses-1	n/a	37	M	Jan 83	73	12
-sub-126BPCP021101	ses-1	n/a	25	F	Jan 68	75	
+sub-126BPCP021101	ses-1	n/a	25	F	Jan 68	75	n/a
 sub-126BPCP021102	ses-1	n/a	19	F	01. Jul	69	16
 sub-126BPCP021103	ses-1	n/a	25	F	Jan 75	70	11
 sub-126BPCP021104	ses-1	n/a	24	F	Jan 56	56	21
